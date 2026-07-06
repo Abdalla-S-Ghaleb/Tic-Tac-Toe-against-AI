@@ -17,7 +17,6 @@ This project was built to explore the fundamentals of **Artificial Intelligence*
 
 * Language: Python
 * Algorithm: Minimax
-* Paradigm: Adversarial Search / Game Theory
 
 ## What I Learned
 
@@ -26,9 +25,3 @@ This project was built to explore the fundamentals of **Artificial Intelligence*
 * Recursive decision-making and backtracking
 * Applying AI search techniques to solve deterministic games
 
-## Future Improvements
-
-* Add Alpha-Beta Pruning to improve performance
-* Introduce difficulty levels
-* Improve the user interface
-* Track game statistics
